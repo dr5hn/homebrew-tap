@@ -1,8 +1,8 @@
 class Ccm < Formula
   desc "CLI toolkit for managing multiple Claude Code accounts, sessions, and health"
   homepage "https://github.com/dr5hn/ccm"
-  url "https://github.com/dr5hn/ccm/archive/refs/tags/v4.1.0.tar.gz"
-  sha256 "c32217d074bbc3130b129d58e14c5a60aeba486fafba03dabb257912abe9f5fb"
+  url "https://github.com/dr5hn/ccm/archive/refs/tags/v4.2.0.tar.gz"
+  sha256 "6535b9628ba0823cb968ecbadb24c1e49bf68435acdd4d54d9bc5f418623d32b"
   license "MIT"
 
   depends_on "bash" => "4.4:"
